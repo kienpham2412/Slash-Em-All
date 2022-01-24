@@ -3,7 +3,7 @@
  2. Developement enviroment: Unity.
 # Rules
 1. Player uses mouse cursor to slash every objects that appeare on the screen.
-2. Goal: Player get the highest score possible.
+2. Goal: Player must get the highest score possible.
 3. Gameover: The game is over when the player miss three objects.
 # Difficulty
 This game has three difficulties: easy, normal, hard.
